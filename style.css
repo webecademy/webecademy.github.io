@@ -409,3 +409,9 @@ p.menu{
   margin: 0;
   padding: 0.5%;
 }
+
+a,
+a:hover {
+    text-decoration: none;
+    color: #FF5722;
+}
